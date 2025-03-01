@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cash Bortner"
+title                    : "Caleb Cooper"
 title_separator          : "-"
-name                     : &name "Cash Bortner"
+name                     : &name "Caleb Cooper"
 description              : &description "personal description"
 url                      : https://cbortner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cash Bortner"
+  name             : "Caleb Cooper"
   avatar           : "picture.jpeg"
-  bio              : "Cash is an Assistant Professor of Mathematics at California State University, Stanislaus."
+  bio              : "Caleb Cooper is a Senior Biology Major at Tougaloo College in Tougaloo, Mississippi."
   location         : #"CSU Stanislaus"
-  employer         : "CSU Stanislaus"
+  employer         : "Tougaloo College"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://https://scholar.google.com/citations?user=cxfkHa8AAAAJ&hl=en"
-  email            : "cbortner@csustan.edu"
+  email            : "ccoooper@student.tougaloo.edu"
   researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cbortner"
+  github           : "cbcoop"
   google_plus      :
   keybase          :
   instagram        :
